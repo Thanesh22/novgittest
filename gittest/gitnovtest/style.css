@@ -1,0 +1,9 @@
+h1,h2{
+    align-items: center;
+    justify-items: center;
+    color: green;
+}
+.form{
+    color: rgb(255, 85, 0);
+
+}
